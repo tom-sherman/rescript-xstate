@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "checkJs": true,
+    "outDir": "dist",
+    "jsx": "react-jsx"
+  },
+  "exclude": [
+    "lib",
+    "src/*.bs.js"
+  ]
+}
