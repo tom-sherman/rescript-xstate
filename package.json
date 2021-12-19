@@ -12,12 +12,12 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "rescript": "*",
     "xstate": "^4.19.1"
   },
   "devDependencies": {
     "gentype": "^3.50.0",
     "prettier": "^2.5.1",
+    "rescript": "^9.1.4",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
   }

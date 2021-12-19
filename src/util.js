@@ -26,6 +26,11 @@ function makeStates(stateList) {
   );
 }
 
+function toMachine(x) {
+  console.log(x);
+}
+
 module.exports = {
   makeStates,
+  toMachine,
 };
